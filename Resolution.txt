@@ -1,0 +1,6 @@
+Resolution 1.0 for this Github Account:
+1. Learning history how i use Python
+2. Learning history for Software engineer/data scientist/python developer
+3. Learning History for support skills
+  3.1. Python Libraries (Pandas, Numpy, Tensorflow, Scikitlearn, Pytorch, etc)
+  3.2. Other requirement(AWS, Git&Github, Big Data, Docker, Azure, Google cloud, etc)
